@@ -16,6 +16,7 @@
         - Note: 이름지정
         - Expiration: 토큰유효기간지정
         - select scopes: repo, gist, read:org, workflow를 필수 체크
+          ![image](https://github.com/ChoiBongGeun/githubTest/assets/32670745/5abec6ee-f53f-4865-bdf4-24cfd9254755)
 - token 적용
     - file → settings → version Control → GitHub → Login with token
     
